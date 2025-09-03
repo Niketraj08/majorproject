@@ -5,12 +5,12 @@ const Footer = () => {
       <p>
         Developed with ❤ by{" "}
         <a
-          href="https://github.com/RijoKsd"
+          href="https://github.com/Niketraj08"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-500 hover:underline"
         >
-          Rijo Sebastian
+          Niket Raj
         </a>
       </p>
     </footer>
