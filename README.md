@@ -28,13 +28,10 @@ TurfSpot is a comprehensive turf booking application with three modules: Admin, 
 
 ## 🌐 URLs
 
-- **User App**: [https://turf-spot.vercel.app/](https://turf-spot.vercel.app/)
-- **Owner/Admin App**: [https://turf-spot-ao.vercel.app/](https://turf-spot-ao.vercel.app/)
+- **User App**: 
+- **Owner/Admin App**: 
 
-### 🔐 Admin Credentials (For Demo)
 
-- **Email**: `admin@gmail.com`  
-- **Password**: `rijo.com`
 
 > 🛠️ **Note**: Admin accounts are created directly in the database. The admin process involves adding an owner manually in the `owners` table and updating their `role` to `admin`.
 
@@ -54,7 +51,7 @@ TurfSpot is a comprehensive turf booking application with three modules: Admin, 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/RijoKsd/TurfSpot.git
+   https://github.com/Niketraj08/majorproject.git
    ```
 2. Install dependencies for both client and server
    ```bash
@@ -121,5 +118,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any inquiries or questions, please contact us at [rijobdk@gmail.com](mailto:rijobdk@gmail.com).
 
