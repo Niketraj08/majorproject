@@ -51,7 +51,11 @@ TurfSpot is a comprehensive turf booking application with three modules: Admin, 
 
 1. Clone the repository
    ```bash
+<<<<<<< HEAD
    https://github.com/Niketraj08/majorproject.git
+=======
+   
+>>>>>>> ed6254479d1b000d3c4d2655d1ea62702182546a
    ```
 2. Install dependencies for both client and server
    ```bash
@@ -116,6 +120,5 @@ TurfSpot is a comprehensive turf booking application with three modules: Admin, 
 
 This project is licensed under the MIT License.
 
-## Contact
 
 
